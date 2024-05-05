@@ -3,6 +3,8 @@
 Учет успеваемости студентов осуществляется с помощью объекта конфигурации "Документ" под названием "ЗанятияСтудентов".
 # Занятия Студентов
 Документ позволяет регистрировать занятия студентов. <br />
+![777](https://github.com/fetgrigory/1C-Student-Achievement-Management/assets/157891679/2ba6e353-4989-4f7d-a2a7-07ad111386df)
+
 ![Занятия Студентов](https://github.com/fetgrigory/1C-Student-Achievement-Management/assets/157891679/a95ab498-fb3a-4abc-a63b-d1f8f54fd35c)
 
 
