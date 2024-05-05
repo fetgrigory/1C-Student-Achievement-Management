@@ -7,7 +7,12 @@
 
 ![Занятия Студентов](https://github.com/fetgrigory/1C-Student-Achievement-Management/assets/157891679/a95ab498-fb3a-4abc-a63b-d1f8f54fd35c)
 
-
+# Отчет по текущей успеваемости студентов
+Для того чтобы представить данные в понятном для пользователя виде, используется объект конфигурации "Отчеты" под названием "УспеваемостьСтудентов". <br />
+![1](https://github.com/fetgrigory/1C-Student-Achievement-Management/assets/157891679/21ec50dd-2007-4236-9268-22906535c63a)
+В зависимости от выбранной дисциплины будет меняться отчет.<br />
+![2](https://github.com/fetgrigory/1C-Student-Achievement-Management/assets/157891679/aa64766d-0cf8-4d28-95e9-e71264d5e693)
+![3](https://github.com/fetgrigory/1C-Student-Achievement-Management/assets/157891679/3d2ef6af-942c-4594-9a27-a1c3dbe9e6a9)
 
 
 # Личная карточка студента
